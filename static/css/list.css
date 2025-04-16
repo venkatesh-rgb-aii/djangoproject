@@ -1,0 +1,10 @@
+body{
+    background-color:grey;
+    font-family: 'Courier New', Courier, monospace;
+    color:navy;
+    font-weight: bold;
+}
+h1{
+    text-align :center;
+    color:yellow;
+}
